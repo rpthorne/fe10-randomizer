@@ -21,3 +21,6 @@ With this randomizer, you can:
 
 
 *due to Radiant Dawn requiring a minimum of 1 stat gain per level, LUCK is set to 100% while all other stats are 0%
+
+## Development
+This Project runs using the .NET framework 4.7.2. you will need to visit MS's website to download the development version of the framework if you dont have it
